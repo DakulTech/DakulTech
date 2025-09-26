@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @DakulTech
--I'm a Front-end web developer. And my love for invention and problem solving ushered me into the field of tech and quitting my previous discipline in agricultural science which deals with production food and development of rural areas to urban. Science and Technology is an important aspect of our lives which promotes better modes of living by encouraging man to become an inventor not merely a user. In this field, I found what I've always wanted😊❤
+👋 Hi, I’m @DakulTech — a MERN Full Stack Developer and SaaS Builder.
+💻 I specialize in building scalable web applications using MongoDB, Express.js, React.js, and Node.js. I'm also proficient with Next.js, and comfortable working with both SQL (PostgreSQL) and NoSQL (MongoDB) databases. I leverage the power of AI through effective prompt engineering to enhance development workflows and user experiences.
+🌱 My journey into tech began with a deep love for invention and problem-solving, which led me to transition from Agricultural Science—a field focused on food production and rural development—to the dynamic world of Science and Technology. I believe tech empowers us to be inventors, not just users, and in this space, I’ve truly found my calling. 😊❤️
+🤝 I’ve worked independently and collaboratively with clients on diverse projects, delivering impactful solutions and clean user experiences.
+📬 Feel free to reach out — I’m most active on Twitter and LinkedIn, and always open to connecting, collaborating, or just chatting about tech and innovation. 😉
 
--I have experienced working with clients independently and collaboratively in various projects.
 
--FEEL FREE TO REACH OUT, I'M MOSTLY ACTIVE ON TWITTER AND LINKEDIN😉
